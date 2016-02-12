@@ -1,0 +1,25 @@
+.field {
+  width: 400px;
+  height: 400px;
+  background: dimgray;
+  margin-top: 20px;
+}
+
+.place {
+  background: black;
+  height: 129px;
+  width: 129px;
+  margin: 2px;
+  cursor: pointer;
+  font-size: xx-large;
+  padding-top: 44px;
+  color: lightgray;
+}
+
+.white {
+  color: white;
+}
+
+body {
+  background: #222222;
+}
